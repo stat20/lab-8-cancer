@@ -66,7 +66,7 @@ Calculate the misclassification rate first on the training data and then on the 
 
 #### Question 9
 
-Build a more complex model to predict the diagnosis using five predictors of your choosing, then calculate the testing and training $R^2$. Is there evidence that your model is overfitting? How can you tell one way or the other?
+Build a more complex model to predict the diagnosis using five predictors of your choosing, then calculate the testing and training misclassification rate. Is there evidence that your model is overfitting? How can you tell one way or the other?
 
 
 #### Question 10
