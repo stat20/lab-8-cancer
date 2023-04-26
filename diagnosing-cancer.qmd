@@ -76,12 +76,12 @@ If you were to deploy your method in a clinical setting to help diagnose cancer,
 
 #### Question 11
 
-Calculate the total number of false positives in the test data set when using your simple model with only one variable.
+Calculate the total number of false negatives in the test data set when using your simple model with only one variable.
 
 
 #### Question 12
 
-What can you change about your classification rule to lower the number of false negatives? Make this change and calculate the new number of false positives.
+What can you change about your classification rule to lower the number of false negatives? Make this change and calculate the new number of false negatives.
 
 
 #### Question 13
